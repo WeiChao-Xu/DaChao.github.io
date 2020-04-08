@@ -15,7 +15,7 @@
 - E-mail:
   - 
   - **[QQ邮箱](www.2652302794@qq.com)**
-- WeChat: **DaChao**
+- 微信: **DaChao**
 - QQ: **2652302794**
 
 <!-- slide -->
@@ -37,8 +37,8 @@
 
 <!-- slide vertical=true -->
 
-- [jekyll-theme-WuK](https://jekyll-theme-WuK.wu-kan.cn/)
-  - 我的个人主页使用的主题样式，也欢迎你用于[搭建自己的页面]（借鉴大佬的框架）(https://jekyll-theme-WuK.wu-kan.cn/)~[![Star]
+  - 我的个人主页使用的主题样式，也欢迎你用于[搭建自己的页面]
+  -（借鉴大佬的页面，如有侵权，告知，必删）(https://jekyll-theme-WuK.wu-kan.cn/)~[![Star]
 
 <!-- slide -->
 
@@ -70,9 +70,21 @@
 - **eclipse**, 熟悉
 
 <!-- slide -->
+
 TBD
 
 ## 我的笔记
 <!-- slide -->
+
   -等等
+  
 <!-- slide -->
+
+## 借鉴学习交流
+
+<!-- slide -->
+
+借鉴大佬的页面，如有侵权，告知，必删
+
+<!-- slide -->
+
