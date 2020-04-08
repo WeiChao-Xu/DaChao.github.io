@@ -14,7 +14,7 @@
 
 - E-mail:
   - 
-  - **[QQ邮箱](2652302794@qq.com)**
+  - **[QQ邮箱](www.2652302794@qq.com)**
 - WeChat: **DaChao**
 - QQ: **2652302794**
 
@@ -45,9 +45,9 @@
 ## 我的一些成就
 <!-- slide vertical=true -->
 
-- **组织参加2018年互联网+大赛** Dec. 2018
-- **新媒体传媒**Nov. 2018
-- **优秀团干**, Oct. 2019
+- **组织参加2018年互联网+大赛**  Dec. 2018
+- **新媒体传媒**   Nov. 2018
+- **优秀团干**  Oct. 2019
 - **。。。。。。**
 <!-- slide -->
 
@@ -55,18 +55,23 @@
 
 <!-- slide vertical=true -->
 
-- **C/C++**, Familiar
-  - **Java**, Familiar&Learning
-  - **jsp**, Familiar&Learning
-  - **jquery**, Learning
-- **Python**, Familiar
+- **C/C++**, 熟悉
+  - **Java**, 熟悉&正在学习中
+  - **jsp**,  熟悉&正在学习中
+  - **jquery**, 正在学习中
+- **Python**, 熟悉
 
 <!-- slide vertical=true -->
 
-- **Markdown**, Familiar
-- **Linux**, Familiar&Learning
-- **Git**, Familiar
-- **VSCode**, Familiar
+- **Markdown**, 熟悉
+- **Linux**,  熟悉&正在学习中
+- **Git**, 熟悉
+- **VSCode**, 熟悉
+- **eclipse**, 熟悉
 
 <!-- slide -->
-
+TBD
+## 我的笔记
+<!-- slide -->
+  -等等
+<!-- slide -->
